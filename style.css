@@ -1,0 +1,15 @@
+.tasks:hover {
+    background-color: lightblue;
+    cursor: pointer;
+    }
+body{
+    text-align: center;
+    color:darkcyan;
+    background-color: aqua;
+}
+
+.btn{
+    background-color: aqua;
+    border-color:darkcyan;
+    color: darkcyan;
+}
